@@ -10,7 +10,7 @@
   <h3>Computer Vision and Machine Learning Group</h3>
 
   <p>
-    University of Illinois Urbana-Champaign
+    School of Information Sciences, University of Illinois Urbana-Champaign
   </p>
 </div>
 
