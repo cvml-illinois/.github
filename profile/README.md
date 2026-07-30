@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://vision.ischool.illinois.edu/">
     <img
-      src="https://github.com/cvml-illinois.png"
+      src="https://yaoyaoliu.pages.dev/assets/img/Formal_Unit_Wordmarks_Full_Color_RGB_CVML_Group.svg"
       alt="CVML Logo"
-      width="80"
+      width="450"
     />
   </a>
 
