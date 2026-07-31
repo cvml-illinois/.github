@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    School of Information Sciences, University of Illinois Urbana-Champaign
+    <b>School of Information Sciences, University of Illinois Urbana-Champaign</b>
   </p>
 </div>
 
