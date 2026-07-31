@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">vision.ischool.illinois.edu</a>
+    <b><a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">vision.ischool.illinois.edu</a></b>
   </p>
 
   <p>
