@@ -7,7 +7,9 @@
     />
   </a>
 
-  <h3>Computer Vision and Machine Learning Group</h3>
+  <p>
+    <a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">vision.ischool.illinois.edu</a>
+  </p>
 
   <p>
     School of Information Sciences, University of Illinois Urbana-Champaign
