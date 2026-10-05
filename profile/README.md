@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <b>[<a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">Group Homepage</a>] [<a href="https://huggingface.co/organizations/cvml-illinois/" target="_blank" rel="noopener">Hugging Face</a>]</b>
+    <b>[<a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">Homepage</a>] [<a href="https://blog.cvmlgroup.web.illinois.edu/" target="_blank" rel="noopener">Blog</a>] [<a href="https://huggingface.co/organizations/cvml-illinois/" target="_blank" rel="noopener">Hugging Face</a>]</b>
   </p>
 </div>
 
