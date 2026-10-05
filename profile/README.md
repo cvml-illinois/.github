@@ -8,12 +8,8 @@
   </a>
 
   <p>
-    <b><a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">vision.ischool.illinois.edu</a></b>
-  </p>
-
-  <p>
-    <b>School of Information Sciences, University of Illinois Urbana-Champaign</b>
+    <b>[<a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">Group Homepage</a>] [<a href="https://huggingface.co/organizations/cvml-illinois/" target="_blank" rel="noopener">Hugging Face</a>]</b>
   </p>
 </div>
 
-This is the official GitHub account for the [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). We study a wide range of problems in visual understanding, data-efficient learning, and intelligent perception. Our research addresses fundamental challenges in **computer vision**, **machine learning**, and **multimodal learning**, while also exploring real-world applications across domains such as healthcare and interactive systems. 
+This is the official GitHub account for the [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) in the [School of Information Sciences](https://ischool.illinois.edu/)  at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). We study a wide range of problems in visual understanding, data-efficient learning, and intelligent perception. Our research addresses fundamental challenges in **computer vision**, **machine learning**, and **multimodal learning**, while also exploring real-world applications across domains such as healthcare and interactive systems. 
