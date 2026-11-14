@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Website-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://vision.ischool.illinois.edu)
 [![](https://img.shields.io/badge/Blog-orange?&style=flat-square&logo=rss&logoColor=white)](https://blog.cvmlgroup.web.illinois.edu/)
-[![](https://img.shields.io/badge/Hugging%20Face-yellow?&style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/organizations/cvml-illinois/)
+[![](https://img.shields.io/badge/Hugging%20Face-D4A017?&style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/organizations/cvml-illinois/)
 
 This is the official GitHub account for the [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) in the [School of Information Sciences](https://ischool.illinois.edu/)  at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). We study a wide range of problems in visual understanding, data-efficient learning, and intelligent perception. Our research addresses fundamental challenges in **computer vision**, **machine learning**, and **multimodal learning**, while also exploring real-world applications across domains such as healthcare and interactive systems. 
