@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://vision.ischool.illinois.edu)
+[![](https://img.shields.io/badge/Website-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://vision.ischool.illinois.edu)
 [![](https://img.shields.io/badge/Blog-orange?&style=flat-square&logo=rss&logoColor=white)](https://blog.cvmlgroup.web.illinois.edu/)
 [![](https://img.shields.io/badge/Hugging%20Face-yellow?&style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/organizations/cvml-illinois/)
 
