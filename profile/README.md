@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://vision.ischool.illinois.edu/">
-    <img
-      src="https://yaoyaoliu.pages.dev/assets/img/Formal_Unit_Wordmarks_Full_Color_RGB_CVML_Group.svg"
-      alt="CVML Logo"
-      width="450"
-    />
-  </a>
+
 
   <p>
     <b>[<a href="https://vision.ischool.illinois.edu" target="_blank" rel="noopener">Homepage</a>] [<a href="https://blog.cvmlgroup.web.illinois.edu/" target="_blank" rel="noopener">Blog</a>] [<a href="https://huggingface.co/organizations/cvml-illinois/" target="_blank" rel="noopener">Hugging Face</a>]</b>
